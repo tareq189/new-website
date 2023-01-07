@@ -101,7 +101,7 @@ main {
 }
 
 .failure-details li {
-    list-style-image: url(/images/icons/check\ \(1\).png);
+    list-style: circle;
 }
 
 /* my plans */
